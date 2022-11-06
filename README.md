@@ -211,6 +211,8 @@ SL NO	% OF POT VALUE	ADC VALUE
  ## Graph
 
 ![o](https://github.com/dharanielango/Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals/blob/main/5.png)
+
+
 graph between % of pot(1Kohm) values and ADC 
 
 
@@ -225,7 +227,7 @@ graph between % of pot(1Kohm) values and ADC
 ![o](https://github.com/dharanielango/Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals/blob/main/3.png)
 
 
-Result :
+## Result :
 Configuring an ADC and the input values are displayed on LCD screen 
 
 
