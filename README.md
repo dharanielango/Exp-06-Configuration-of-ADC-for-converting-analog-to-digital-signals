@@ -206,11 +206,11 @@ int main()
 ```
 ## Tabulations and graph 
 SL NO	% OF POT VALUE	ADC VALUE
-![o](https://github.com/dharanielango/Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals/blob/main/d4.png)		
+![o](https://github.com/dharanielango/Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals/blob/main/4.png)		
 
  ## Graph
 
-![o](https://github.com/dharanielango/Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals/blob/main/d5.png)
+![o](https://github.com/dharanielango/Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals/blob/main/5.png)
 graph between % of pot(1Kohm) values and ADC 
 
 
@@ -218,11 +218,11 @@ graph between % of pot(1Kohm) values and ADC
 
 ## Output :
 ### Before
-![o](https://github.com/dharanielango/Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals/blob/main/d1.png)
+![o](https://github.com/dharanielango/Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals/blob/main/1.png)
 ### After
-![o](https://github.com/dharanielango/Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals/blob/main/d2.png)
+![o](https://github.com/dharanielango/Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals/blob/main/2.png)
 ### Circuit Diagram
-![o](https://github.com/dharanielango/Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals/blob/main/d3.png)
+![o](https://github.com/dharanielango/Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals/blob/main/3.png)
 
 
 Result :
